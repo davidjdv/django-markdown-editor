@@ -6,3 +6,4 @@ dist/
 *.pyc
 *note
 *backup*
+DnD-MD-venv/
